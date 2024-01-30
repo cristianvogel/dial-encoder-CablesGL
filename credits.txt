@@ -4,5 +4,6 @@ OP AUTHORS:
 - cables by undefined development (http://undev.studio)
 - glmatrix by toji (https://github.com/toji/gl-matrix)
 - ops by cables user simod (https://cables.gl/user/simod)
+- ops by cables user cristianvogel (https://cables.gl/user/cristianvogel)
 
 cables is build on open source software and community contributions, check https://cables.gl/credits
