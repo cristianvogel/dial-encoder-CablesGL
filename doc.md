@@ -3,5 +3,6 @@
 * __#ext_forceCanvasSize__ ```Number``` (default Value: `1`)
 * __#ui_canvasInfo__ ```Object```
 * __#ui_canvasParent__ ```Object```
+* __#ui_DragDeltaSum__ ```Number```
 * __#ui_mouseOver__ ```Number```
 
